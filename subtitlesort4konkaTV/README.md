@@ -11,3 +11,9 @@ to be continue:
 2. lambda 与python的排序
 3. achieve time offset feature
 4. regulation expresstion
+
+
+windows7 默认的编码(ansi,意为使用系统默认编码方式)为GBK编码
+BOM-- binary order maker，FFFE在文件头标识大端或小端字节序
+utf--unicode transform format ,是unicode编码在传输中使用的表达方式
+unicode--universal character set,分两种ucs2,ucs4分别代表2字节和4字节编码格式
